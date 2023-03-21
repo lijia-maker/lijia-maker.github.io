@@ -170,6 +170,13 @@
   </url>
   
   <url>
+    <loc>https://lijusting.top/tags/vuex/</loc>
+    <lastmod>2023-03-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://lijusting.top/tags/bug/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -178,13 +185,6 @@
   
   <url>
     <loc>https://lijusting.top/tags/vue-router/</loc>
-    <lastmod>2023-03-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://lijusting.top/tags/vuex/</loc>
     <lastmod>2023-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
